@@ -1,0 +1,2166 @@
+{
+  "IDN.1.2_1": {
+    "osm_id": "",
+    "name": "AcehBarat"
+  },
+  "IDN.1.1_1": {
+    "osm_id": "",
+    "name": "AcehBaratDaya"
+  },
+  "IDN.1.3_1": {
+    "osm_id": "",
+    "name": "AcehBesar"
+  },
+  "IDN.1.4_1": {
+    "osm_id": "",
+    "name": "AcehJaya"
+  },
+  "IDN.1.5_1": {
+    "osm_id": "",
+    "name": "AcehSelatan"
+  },
+  "IDN.1.6_1": {
+    "osm_id": "",
+    "name": "AcehSingkil"
+  },
+  "IDN.1.7_1": {
+    "osm_id": "",
+    "name": "AcehTamiang"
+  },
+  "IDN.1.8_1": {
+    "osm_id": "",
+    "name": "AcehTengah"
+  },
+  "IDN.1.9_1": {
+    "osm_id": "",
+    "name": "AcehTenggara"
+  },
+  "IDN.1.10_1": {
+    "osm_id": "",
+    "name": "AcehTimur"
+  },
+  "IDN.1.11_1": {
+    "osm_id": "",
+    "name": "AcehUtara"
+  },
+  "IDN.1.12_1": {
+    "osm_id": "",
+    "name": "BandaAceh"
+  },
+  "IDN.1.13_1": {
+    "osm_id": "",
+    "name": "BenerMeriah"
+  },
+  "IDN.1.14_1": {
+    "osm_id": "5474497",
+    "osm_type": "relation",
+    "name": "Bireuen",
+    "admin_level": "5"
+  },
+  "IDN.1.15_1": {
+    "osm_id": "",
+    "name": "GayoLues"
+  },
+  "IDN.1.16_1": {
+    "osm_id": "8922311",
+    "osm_type": "relation",
+    "name": "Langsa",
+    "admin_level": "5"
+  },
+  "IDN.1.17_1": {
+    "osm_id": "4126220",
+    "osm_type": "relation",
+    "name": "Lhokseumawe",
+    "admin_level": "5"
+  },
+  "IDN.1.18_1": {
+    "osm_id": "",
+    "name": "NaganRaya"
+  },
+  "IDN.1.20_1": {
+    "osm_id": "8931187",
+    "osm_type": "relation",
+    "name": "Pidie",
+    "admin_level": "5"
+  },
+  "IDN.1.19_1": {
+    "osm_id": "",
+    "name": "PidieJaya"
+  },
+  "IDN.1.21_1": {
+    "osm_id": "9020791",
+    "osm_type": "relation",
+    "name": "Sabang",
+    "admin_level": "5"
+  },
+  "IDN.1.22_1": {
+    "osm_id": "8932307",
+    "osm_type": "relation",
+    "name": "Simeulue",
+    "admin_level": "5"
+  },
+  "IDN.1.23_1": {
+    "osm_id": "8922307",
+    "osm_type": "relation",
+    "name": "Subulussalam",
+    "admin_level": "5"
+  },
+  "IDN.2.1_1": {
+    "osm_id": "14613953",
+    "osm_type": "relation",
+    "name": "Badung",
+    "admin_level": "5"
+  },
+  "IDN.2.2_1": {
+    "osm_id": "14322004",
+    "osm_type": "relation",
+    "name": "Bangli",
+    "admin_level": "5"
+  },
+  "IDN.2.3_1": {
+    "osm_id": "14322007",
+    "osm_type": "relation",
+    "name": "Buleleng",
+    "admin_level": "5"
+  },
+  "IDN.2.4_1": {
+    "osm_id": "7789828",
+    "osm_type": "relation",
+    "name": "Denpasar",
+    "admin_level": "5"
+  },
+  "IDN.2.5_1": {
+    "osm_id": "14613952",
+    "osm_type": "relation",
+    "name": "Gianyar",
+    "admin_level": "5"
+  },
+  "IDN.2.6_1": {
+    "osm_id": "14322006",
+    "osm_type": "relation",
+    "name": "Jembrana",
+    "admin_level": "5"
+  },
+  "IDN.2.7_1": {
+    "osm_id": "14264457",
+    "osm_type": "relation",
+    "name": "Karangasem",
+    "admin_level": "5"
+  },
+  "IDN.2.8_1": {
+    "osm_id": "3250691",
+    "osm_type": "relation",
+    "name": "Kabupaten Klungkung",
+    "admin_level": "5"
+  },
+  "IDN.2.9_1": {
+    "osm_id": "14322005",
+    "osm_type": "relation",
+    "name": "Tabanan",
+    "admin_level": "5"
+  },
+  "IDN.3.4_1": {
+    "osm_id": "",
+    "name": "Bangka"
+  },
+  "IDN.3.1_1": {
+    "osm_id": "",
+    "name": "BangkaBarat"
+  },
+  "IDN.3.2_1": {
+    "osm_id": "",
+    "name": "BangkaSelatan"
+  },
+  "IDN.3.3_1": {
+    "osm_id": "",
+    "name": "BangkaTengah"
+  },
+  "IDN.3.6_1": {
+    "osm_id": "",
+    "name": "Belitung"
+  },
+  "IDN.3.5_1": {
+    "osm_id": "",
+    "name": "BelitungTimur"
+  },
+  "IDN.3.7_1": {
+    "osm_id": "",
+    "name": "Pangkalpinang"
+  },
+  "IDN.4.1_1": {
+    "osm_id": "7641589",
+    "osm_type": "relation",
+    "name": "Cilegon",
+    "admin_level": "5"
+  },
+  "IDN.4.2_1": {
+    "osm_id": "",
+    "name": "KotaSerang"
+  },
+  "IDN.4.3_1": {
+    "osm_id": "",
+    "name": "KotaTangerang"
+  },
+  "IDN.4.4_1": {
+    "osm_id": "7641586",
+    "osm_type": "relation",
+    "name": "Lebak",
+    "admin_level": "5"
+  },
+  "IDN.4.5_1": {
+    "osm_id": "7641585",
+    "osm_type": "relation",
+    "name": "Pandeglang",
+    "admin_level": "5"
+  },
+  "IDN.4.6_1": {
+    "osm_id": "7641588",
+    "osm_type": "relation",
+    "name": "Serang",
+    "admin_level": "5"
+  },
+  "IDN.4.8_1": {
+    "osm_id": "7641583",
+    "osm_type": "relation",
+    "name": "Tangerang",
+    "admin_level": "5"
+  },
+  "IDN.4.7_1": {
+    "osm_id": "",
+    "name": "TangerangSelatan"
+  },
+  "IDN.5.4_1": {
+    "osm_id": "16196019",
+    "osm_type": "relation",
+    "name": "Bengkulu",
+    "admin_level": "5"
+  },
+  "IDN.5.1_1": {
+    "osm_id": "",
+    "name": "BengkuluSelatan"
+  },
+  "IDN.5.2_1": {
+    "osm_id": "",
+    "name": "BengkuluTengah"
+  },
+  "IDN.5.3_1": {
+    "osm_id": "",
+    "name": "BengkuluUtara"
+  },
+  "IDN.5.5_1": {
+    "osm_id": "16196024",
+    "osm_type": "relation",
+    "name": "Kaur",
+    "admin_level": "5"
+  },
+  "IDN.5.6_1": {
+    "osm_id": "16196027",
+    "osm_type": "relation",
+    "name": "Kepahiang",
+    "admin_level": "5"
+  },
+  "IDN.5.7_1": {
+    "osm_id": "16196029",
+    "osm_type": "relation",
+    "name": "Lebong",
+    "admin_level": "5"
+  },
+  "IDN.5.8_1": {
+    "osm_id": "16196031",
+    "osm_type": "relation",
+    "name": "Mukomuko",
+    "admin_level": "5"
+  },
+  "IDN.5.9_1": {
+    "osm_id": "",
+    "name": "RejangLebong"
+  },
+  "IDN.5.10_1": {
+    "osm_id": "16196026",
+    "osm_type": "relation",
+    "name": "Seluma",
+    "admin_level": "5"
+  },
+  "IDN.6.1_1": {
+    "osm_id": "14909130",
+    "osm_type": "relation",
+    "name": "Boalemo",
+    "admin_level": "5"
+  },
+  "IDN.6.2_1": {
+    "osm_id": "",
+    "name": "BoneBolango"
+  },
+  "IDN.6.3_1": {
+    "osm_id": "",
+    "name": "DanauLimboto"
+  },
+  "IDN.6.5_1": {
+    "osm_id": "14909128",
+    "osm_type": "relation",
+    "name": "Gorontalo",
+    "admin_level": "5"
+  },
+  "IDN.6.4_1": {
+    "osm_id": "",
+    "name": "GorontaloUtara"
+  },
+  "IDN.6.6_1": {
+    "osm_id": "",
+    "name": "KotaGorontalo"
+  },
+  "IDN.6.7_1": {
+    "osm_id": "14909126",
+    "osm_type": "relation",
+    "name": "Pohuwato",
+    "admin_level": "5"
+  },
+  "IDN.7.1_1": {
+    "osm_id": "",
+    "name": "JakartaBarat"
+  },
+  "IDN.7.2_1": {
+    "osm_id": "",
+    "name": "JakartaPusat"
+  },
+  "IDN.7.3_1": {
+    "osm_id": "",
+    "name": "JakartaSelatan"
+  },
+  "IDN.7.4_1": {
+    "osm_id": "",
+    "name": "JakartaTimur"
+  },
+  "IDN.7.5_1": {
+    "osm_id": "",
+    "name": "JakartaUtara"
+  },
+  "IDN.7.6_1": {
+    "osm_id": "",
+    "name": "KepulauanSeribu"
+  },
+  "IDN.8.1_1": {
+    "osm_id": "14940953",
+    "osm_type": "relation",
+    "name": "Batang Hari",
+    "admin_level": "5"
+  },
+  "IDN.8.2_1": {
+    "osm_id": "14940951",
+    "osm_type": "relation",
+    "name": "Bungo",
+    "admin_level": "5"
+  },
+  "IDN.8.3_1": {
+    "osm_id": "14940955",
+    "osm_type": "relation",
+    "name": "Jambi",
+    "admin_level": "5"
+  },
+  "IDN.8.4_1": {
+    "osm_id": "13757876",
+    "osm_type": "relation",
+    "name": "Kerinci",
+    "admin_level": "5"
+  },
+  "IDN.8.5_1": {
+    "osm_id": "13758060",
+    "osm_type": "relation",
+    "name": "Merangin",
+    "admin_level": "5"
+  },
+  "IDN.8.6_1": {
+    "osm_id": "",
+    "name": "MuaroJambi"
+  },
+  "IDN.8.7_1": {
+    "osm_id": "13757970",
+    "osm_type": "relation",
+    "name": "Sarolangun",
+    "admin_level": "5"
+  },
+  "IDN.8.8_1": {
+    "osm_id": "1052336510",
+    "osm_type": "way",
+    "name": "SMP Negeri 6 Sungai Penuh",
+    "admin_level": ""
+  },
+  "IDN.8.9_1": {
+    "osm_id": "",
+    "name": "TanjungJabungB"
+  },
+  "IDN.8.10_1": {
+    "osm_id": "",
+    "name": "TanjungJabungT"
+  },
+  "IDN.8.11_1": {
+    "osm_id": "14940950",
+    "osm_type": "relation",
+    "name": "Tebo",
+    "admin_level": "5"
+  },
+  "IDN.9.2_1": {
+    "osm_id": "",
+    "name": "Bandung"
+  },
+  "IDN.9.1_1": {
+    "osm_id": "",
+    "name": "BandungBarat"
+  },
+  "IDN.9.3_1": {
+    "osm_id": "",
+    "name": "Banjar"
+  },
+  "IDN.9.4_1": {
+    "osm_id": "",
+    "name": "Bekasi"
+  },
+  "IDN.9.5_1": {
+    "osm_id": "",
+    "name": "Bogor"
+  },
+  "IDN.9.6_1": {
+    "osm_id": "",
+    "name": "Ciamis"
+  },
+  "IDN.9.7_1": {
+    "osm_id": "",
+    "name": "Cianjur"
+  },
+  "IDN.9.8_1": {
+    "osm_id": "",
+    "name": "Cimahi"
+  },
+  "IDN.9.9_1": {
+    "osm_id": "",
+    "name": "Cirebon"
+  },
+  "IDN.9.10_1": {
+    "osm_id": "",
+    "name": "Depok"
+  },
+  "IDN.9.11_1": {
+    "osm_id": "",
+    "name": "Garut"
+  },
+  "IDN.9.12_1": {
+    "osm_id": "",
+    "name": "Indramayu"
+  },
+  "IDN.9.13_1": {
+    "osm_id": "",
+    "name": "Karawang"
+  },
+  "IDN.9.14_1": {
+    "osm_id": "",
+    "name": "KotaBandung"
+  },
+  "IDN.9.15_1": {
+    "osm_id": "",
+    "name": "KotaBekasi"
+  },
+  "IDN.9.16_1": {
+    "osm_id": "",
+    "name": "KotaBogor"
+  },
+  "IDN.9.17_1": {
+    "osm_id": "",
+    "name": "KotaCirebon"
+  },
+  "IDN.9.18_1": {
+    "osm_id": "",
+    "name": "KotaSukabumi"
+  },
+  "IDN.9.19_1": {
+    "osm_id": "",
+    "name": "KotaTasikmalaya"
+  },
+  "IDN.9.20_1": {
+    "osm_id": "",
+    "name": "Kuningan"
+  },
+  "IDN.9.21_1": {
+    "osm_id": "",
+    "name": "Majalengka"
+  },
+  "IDN.9.22_1": {
+    "osm_id": "",
+    "name": "Purwakarta"
+  },
+  "IDN.9.23_1": {
+    "osm_id": "",
+    "name": "Subang"
+  },
+  "IDN.9.24_1": {
+    "osm_id": "",
+    "name": "Sukabumi"
+  },
+  "IDN.9.25_1": {
+    "osm_id": "",
+    "name": "Sumedang"
+  },
+  "IDN.9.26_1": {
+    "osm_id": "",
+    "name": "Tasikmalaya"
+  },
+  "IDN.9.27_1": {
+    "osm_id": "",
+    "name": "WadukCirata"
+  },
+  "IDN.10.1_1": {
+    "osm_id": "",
+    "name": "Banjarnegara"
+  },
+  "IDN.10.2_1": {
+    "osm_id": "",
+    "name": "Banyumas"
+  },
+  "IDN.10.3_1": {
+    "osm_id": "",
+    "name": "Batang"
+  },
+  "IDN.10.4_1": {
+    "osm_id": "",
+    "name": "Blora"
+  },
+  "IDN.10.5_1": {
+    "osm_id": "",
+    "name": "Boyolali"
+  },
+  "IDN.10.6_1": {
+    "osm_id": "",
+    "name": "Brebes"
+  },
+  "IDN.10.7_1": {
+    "osm_id": "",
+    "name": "Cilacap"
+  },
+  "IDN.10.8_1": {
+    "osm_id": "",
+    "name": "Demak"
+  },
+  "IDN.10.9_1": {
+    "osm_id": "",
+    "name": "Grobogan"
+  },
+  "IDN.10.10_1": {
+    "osm_id": "",
+    "name": "Jepara"
+  },
+  "IDN.10.11_1": {
+    "osm_id": "",
+    "name": "Karanganyar"
+  },
+  "IDN.10.12_1": {
+    "osm_id": "",
+    "name": "Kebumen"
+  },
+  "IDN.10.13_1": {
+    "osm_id": "",
+    "name": "Kendal"
+  },
+  "IDN.10.14_1": {
+    "osm_id": "",
+    "name": "Klaten"
+  },
+  "IDN.10.15_1": {
+    "osm_id": "",
+    "name": "KotaMagelang"
+  },
+  "IDN.10.16_1": {
+    "osm_id": "",
+    "name": "KotaPekalongan"
+  },
+  "IDN.10.17_1": {
+    "osm_id": "",
+    "name": "KotaSemarang"
+  },
+  "IDN.10.18_1": {
+    "osm_id": "",
+    "name": "KotaTegal"
+  },
+  "IDN.10.19_1": {
+    "osm_id": "",
+    "name": "Kudus"
+  },
+  "IDN.10.20_1": {
+    "osm_id": "",
+    "name": "Magelang"
+  },
+  "IDN.10.21_1": {
+    "osm_id": "",
+    "name": "Pati"
+  },
+  "IDN.10.22_1": {
+    "osm_id": "",
+    "name": "Pekalongan"
+  },
+  "IDN.10.23_1": {
+    "osm_id": "",
+    "name": "Pemalang"
+  },
+  "IDN.10.24_1": {
+    "osm_id": "",
+    "name": "Purbalingga"
+  },
+  "IDN.10.25_1": {
+    "osm_id": "",
+    "name": "Purworejo"
+  },
+  "IDN.10.26_1": {
+    "osm_id": "",
+    "name": "Rembang"
+  },
+  "IDN.10.27_1": {
+    "osm_id": "",
+    "name": "Salatiga"
+  },
+  "IDN.10.28_1": {
+    "osm_id": "",
+    "name": "Semarang"
+  },
+  "IDN.10.29_1": {
+    "osm_id": "",
+    "name": "Sragen"
+  },
+  "IDN.10.30_1": {
+    "osm_id": "",
+    "name": "Sukoharjo"
+  },
+  "IDN.10.31_1": {
+    "osm_id": "",
+    "name": "Surakarta"
+  },
+  "IDN.10.32_1": {
+    "osm_id": "",
+    "name": "Tegal"
+  },
+  "IDN.10.33_1": {
+    "osm_id": "",
+    "name": "Temanggung"
+  },
+  "IDN.10.34_1": {
+    "osm_id": "",
+    "name": "WadukKedungombo"
+  },
+  "IDN.10.35_1": {
+    "osm_id": "",
+    "name": "Wonogiri"
+  },
+  "IDN.10.36_1": {
+    "osm_id": "",
+    "name": "Wonosobo"
+  },
+  "IDN.11.1_1": {
+    "osm_id": "",
+    "name": "Bangkalan"
+  },
+  "IDN.11.2_1": {
+    "osm_id": "",
+    "name": "Banyuwangi"
+  },
+  "IDN.11.3_1": {
+    "osm_id": "",
+    "name": "Batu"
+  },
+  "IDN.11.4_1": {
+    "osm_id": "",
+    "name": "Blitar"
+  },
+  "IDN.11.5_1": {
+    "osm_id": "",
+    "name": "Bojonegoro"
+  },
+  "IDN.11.6_1": {
+    "osm_id": "",
+    "name": "Bondowoso"
+  },
+  "IDN.11.7_1": {
+    "osm_id": "",
+    "name": "Gresik"
+  },
+  "IDN.11.8_1": {
+    "osm_id": "",
+    "name": "Jember"
+  },
+  "IDN.11.9_1": {
+    "osm_id": "",
+    "name": "Jombang"
+  },
+  "IDN.11.10_1": {
+    "osm_id": "",
+    "name": "Kediri"
+  },
+  "IDN.11.11_1": {
+    "osm_id": "",
+    "name": "KotaBlitar"
+  },
+  "IDN.11.12_1": {
+    "osm_id": "",
+    "name": "KotaKediri"
+  },
+  "IDN.11.13_1": {
+    "osm_id": "",
+    "name": "KotaMadiun"
+  },
+  "IDN.11.14_1": {
+    "osm_id": "",
+    "name": "KotaMalang"
+  },
+  "IDN.11.15_1": {
+    "osm_id": "",
+    "name": "KotaMojokerto"
+  },
+  "IDN.11.16_1": {
+    "osm_id": "",
+    "name": "KotaPasuruan"
+  },
+  "IDN.11.17_1": {
+    "osm_id": "",
+    "name": "KotaProbolinggo"
+  },
+  "IDN.11.18_1": {
+    "osm_id": "",
+    "name": "Lamongan"
+  },
+  "IDN.11.19_1": {
+    "osm_id": "",
+    "name": "Lumajang"
+  },
+  "IDN.11.20_1": {
+    "osm_id": "",
+    "name": "Madiun"
+  },
+  "IDN.11.21_1": {
+    "osm_id": "",
+    "name": "Magetan"
+  },
+  "IDN.11.22_1": {
+    "osm_id": "",
+    "name": "Malang"
+  },
+  "IDN.11.23_1": {
+    "osm_id": "",
+    "name": "Mojokerto"
+  },
+  "IDN.11.24_1": {
+    "osm_id": "",
+    "name": "Nganjuk"
+  },
+  "IDN.11.25_1": {
+    "osm_id": "",
+    "name": "Ngawi"
+  },
+  "IDN.11.26_1": {
+    "osm_id": "",
+    "name": "Pacitan"
+  },
+  "IDN.11.27_1": {
+    "osm_id": "",
+    "name": "Pamekasan"
+  },
+  "IDN.11.28_1": {
+    "osm_id": "",
+    "name": "Pasuruan"
+  },
+  "IDN.11.29_1": {
+    "osm_id": "",
+    "name": "Ponorogo"
+  },
+  "IDN.11.30_1": {
+    "osm_id": "",
+    "name": "Probolinggo"
+  },
+  "IDN.11.31_1": {
+    "osm_id": "",
+    "name": "Sampang"
+  },
+  "IDN.11.32_1": {
+    "osm_id": "",
+    "name": "Sidoarjo"
+  },
+  "IDN.11.33_1": {
+    "osm_id": "",
+    "name": "Situbondo"
+  },
+  "IDN.11.34_1": {
+    "osm_id": "",
+    "name": "Sumenep"
+  },
+  "IDN.11.35_1": {
+    "osm_id": "",
+    "name": "Surabaya"
+  },
+  "IDN.11.36_1": {
+    "osm_id": "",
+    "name": "Trenggalek"
+  },
+  "IDN.11.37_1": {
+    "osm_id": "",
+    "name": "Tuban"
+  },
+  "IDN.11.38_1": {
+    "osm_id": "",
+    "name": "Tulungagung"
+  },
+  "IDN.12.1_1": {
+    "osm_id": "",
+    "name": "Bengkayang"
+  },
+  "IDN.12.2_1": {
+    "osm_id": "",
+    "name": "KapuasHulu"
+  },
+  "IDN.12.3_1": {
+    "osm_id": "",
+    "name": "KayongUtara"
+  },
+  "IDN.12.4_1": {
+    "osm_id": "",
+    "name": "Ketapang"
+  },
+  "IDN.12.5_1": {
+    "osm_id": "",
+    "name": "KotaPontianak"
+  },
+  "IDN.12.6_1": {
+    "osm_id": "",
+    "name": "KubuRaya"
+  },
+  "IDN.12.7_1": {
+    "osm_id": "",
+    "name": "Landak"
+  },
+  "IDN.12.8_1": {
+    "osm_id": "",
+    "name": "Melawi"
+  },
+  "IDN.12.9_1": {
+    "osm_id": "",
+    "name": "Pontianak"
+  },
+  "IDN.12.10_1": {
+    "osm_id": "",
+    "name": "Sambas"
+  },
+  "IDN.12.11_1": {
+    "osm_id": "",
+    "name": "Sanggau"
+  },
+  "IDN.12.12_1": {
+    "osm_id": "",
+    "name": "Sekadau"
+  },
+  "IDN.12.13_1": {
+    "osm_id": "",
+    "name": "Singkawang"
+  },
+  "IDN.12.14_1": {
+    "osm_id": "",
+    "name": "Sintang"
+  },
+  "IDN.13.1_1": {
+    "osm_id": "",
+    "name": "Balangan"
+  },
+  "IDN.13.3_1": {
+    "osm_id": "",
+    "name": "Banjar"
+  },
+  "IDN.13.2_1": {
+    "osm_id": "",
+    "name": "BanjarBaru"
+  },
+  "IDN.13.4_1": {
+    "osm_id": "",
+    "name": "Banjarmasin"
+  },
+  "IDN.13.5_1": {
+    "osm_id": "",
+    "name": "BaritoKuala"
+  },
+  "IDN.13.6_1": {
+    "osm_id": "",
+    "name": "HuluSungaiSelatan"
+  },
+  "IDN.13.7_1": {
+    "osm_id": "",
+    "name": "HuluSungaiTengah"
+  },
+  "IDN.13.8_1": {
+    "osm_id": "",
+    "name": "HuluSungaiUtara"
+  },
+  "IDN.13.9_1": {
+    "osm_id": "",
+    "name": "KotaBaru"
+  },
+  "IDN.13.10_1": {
+    "osm_id": "",
+    "name": "Tabalong"
+  },
+  "IDN.13.11_1": {
+    "osm_id": "",
+    "name": "TanahBumbu"
+  },
+  "IDN.13.12_1": {
+    "osm_id": "",
+    "name": "TanahLaut"
+  },
+  "IDN.13.13_1": {
+    "osm_id": "",
+    "name": "Tapin"
+  },
+  "IDN.14.1_1": {
+    "osm_id": "",
+    "name": "BaritoSelatan"
+  },
+  "IDN.14.2_1": {
+    "osm_id": "",
+    "name": "BaritoTimur"
+  },
+  "IDN.14.3_1": {
+    "osm_id": "",
+    "name": "BaritoUtara"
+  },
+  "IDN.14.4_1": {
+    "osm_id": "",
+    "name": "GunungMas"
+  },
+  "IDN.14.5_1": {
+    "osm_id": "",
+    "name": "Kapuas"
+  },
+  "IDN.14.6_1": {
+    "osm_id": "",
+    "name": "Katingan"
+  },
+  "IDN.14.7_1": {
+    "osm_id": "",
+    "name": "KotawaringinBarat"
+  },
+  "IDN.14.8_1": {
+    "osm_id": "",
+    "name": "KotawaringinTimur"
+  },
+  "IDN.14.9_1": {
+    "osm_id": "",
+    "name": "Lamandau"
+  },
+  "IDN.14.10_1": {
+    "osm_id": "",
+    "name": "MurungRaya"
+  },
+  "IDN.14.11_1": {
+    "osm_id": "",
+    "name": "PalangkaRaya"
+  },
+  "IDN.14.12_1": {
+    "osm_id": "",
+    "name": "PulangPisau"
+  },
+  "IDN.14.13_1": {
+    "osm_id": "",
+    "name": "Seruyan"
+  },
+  "IDN.14.14_1": {
+    "osm_id": "",
+    "name": "Sukamara"
+  },
+  "IDN.34.1_1": {
+    "osm_id": "",
+    "name": "Balikpapan"
+  },
+  "IDN.34.2_1": {
+    "osm_id": "",
+    "name": "Berau"
+  },
+  "IDN.34.3_1": {
+    "osm_id": "",
+    "name": "Bontang"
+  },
+  "IDN.34.5_1": {
+    "osm_id": "",
+    "name": "KutaiBarat"
+  },
+  "IDN.34.6_1": {
+    "osm_id": "",
+    "name": "KutaiKartanegara"
+  },
+  "IDN.34.7_1": {
+    "osm_id": "",
+    "name": "KutaiTimur"
+  },
+  "IDN.34.10_1": {
+    "osm_id": "",
+    "name": "Paser"
+  },
+  "IDN.34.11_1": {
+    "osm_id": "",
+    "name": "PenajamPaserUtara"
+  },
+  "IDN.34.12_1": {
+    "osm_id": "",
+    "name": "Samarinda"
+  },
+  "IDN.35.4": {
+    "osm_id": "",
+    "name": "Bulungan"
+  },
+  "IDN.35.8": {
+    "osm_id": "",
+    "name": "Malinau"
+  },
+  "IDN.35.9": {
+    "osm_id": "",
+    "name": "Nunukan"
+  },
+  "IDN.35.13": {
+    "osm_id": "",
+    "name": "TanaTidung"
+  },
+  "IDN.35.14": {
+    "osm_id": "",
+    "name": "Tarakan"
+  },
+  "IDN.16.1_1": {
+    "osm_id": "",
+    "name": "Batam"
+  },
+  "IDN.16.2_1": {
+    "osm_id": "",
+    "name": "Bintan"
+  },
+  "IDN.16.3_1": {
+    "osm_id": "",
+    "name": "Karimun"
+  },
+  "IDN.16.4_1": {
+    "osm_id": "",
+    "name": "KepulauanAnambas"
+  },
+  "IDN.16.5_1": {
+    "osm_id": "",
+    "name": "Lingga"
+  },
+  "IDN.16.6_1": {
+    "osm_id": "",
+    "name": "Natuna"
+  },
+  "IDN.16.7_1": {
+    "osm_id": "",
+    "name": "Tanjungpinang"
+  },
+  "IDN.17.1_1": {
+    "osm_id": "11007414",
+    "osm_type": "relation",
+    "name": "Bandar Lampung",
+    "admin_level": "5"
+  },
+  "IDN.17.2_1": {
+    "osm_id": "",
+    "name": "LampungBarat"
+  },
+  "IDN.17.3_1": {
+    "osm_id": "",
+    "name": "LampungSelatan"
+  },
+  "IDN.17.4_1": {
+    "osm_id": "12392325251",
+    "osm_type": "node",
+    "name": "POSKO PMI Kabupaten LampungTengah",
+    "admin_level": ""
+  },
+  "IDN.17.5_1": {
+    "osm_id": "",
+    "name": "LampungTimur"
+  },
+  "IDN.17.6_1": {
+    "osm_id": "",
+    "name": "LampungUtara"
+  },
+  "IDN.17.7_1": {
+    "osm_id": "11007411",
+    "osm_type": "relation",
+    "name": "Mesuji",
+    "admin_level": "5"
+  },
+  "IDN.17.8_1": {
+    "osm_id": "11007423",
+    "osm_type": "relation",
+    "name": "Metro",
+    "admin_level": "5"
+  },
+  "IDN.17.9_1": {
+    "osm_id": "11007413",
+    "osm_type": "relation",
+    "name": "Pesawaran",
+    "admin_level": "5"
+  },
+  "IDN.17.10_1": {
+    "osm_id": "11007422",
+    "osm_type": "relation",
+    "name": "Pringsewu",
+    "admin_level": "5"
+  },
+  "IDN.17.11_1": {
+    "osm_id": "11007412",
+    "osm_type": "relation",
+    "name": "Tanggamus",
+    "admin_level": "5"
+  },
+  "IDN.17.12_1": {
+    "osm_id": "",
+    "name": "TulangBawangBarat"
+  },
+  "IDN.17.13_1": {
+    "osm_id": "19278722",
+    "osm_type": "relation",
+    "name": "Sungai Tulang Bawang",
+    "admin_level": ""
+  },
+  "IDN.17.14_1": {
+    "osm_id": "",
+    "name": "WayKanan"
+  },
+  "IDN.19.1_1": {
+    "osm_id": "13262351",
+    "osm_type": "relation",
+    "name": "Ambon",
+    "admin_level": "5"
+  },
+  "IDN.19.3_1": {
+    "osm_id": "13262347",
+    "osm_type": "relation",
+    "name": "Buru",
+    "admin_level": "5"
+  },
+  "IDN.19.2_1": {
+    "osm_id": "",
+    "name": "BuruSelatan"
+  },
+  "IDN.19.4_1": {
+    "osm_id": "",
+    "name": "KepulauanAru"
+  },
+  "IDN.19.5_1": {
+    "osm_id": "",
+    "name": "MalukuBaratDaya"
+  },
+  "IDN.19.6_1": {
+    "osm_id": "",
+    "name": "MalukuTengah"
+  },
+  "IDN.19.8_1": {
+    "osm_id": "",
+    "name": "MalukuTenggara"
+  },
+  "IDN.19.7_1": {
+    "osm_id": "",
+    "name": "MalukuTenggaraBarat"
+  },
+  "IDN.19.9_1": {
+    "osm_id": "",
+    "name": "SeramBagianBarat"
+  },
+  "IDN.19.10_1": {
+    "osm_id": "",
+    "name": "SeramBagianTimur"
+  },
+  "IDN.19.11_1": {
+    "osm_id": "13262353",
+    "osm_type": "relation",
+    "name": "Tual",
+    "admin_level": "5"
+  },
+  "IDN.18.1_1": {
+    "osm_id": "",
+    "name": "HalmaheraBarat"
+  },
+  "IDN.18.2_1": {
+    "osm_id": "",
+    "name": "HalmaheraSelatan"
+  },
+  "IDN.18.3_1": {
+    "osm_id": "",
+    "name": "HalmaheraTengah"
+  },
+  "IDN.18.4_1": {
+    "osm_id": "",
+    "name": "HalmaheraTimur"
+  },
+  "IDN.18.5_1": {
+    "osm_id": "",
+    "name": "HalmaheraUtara"
+  },
+  "IDN.18.6_1": {
+    "osm_id": "",
+    "name": "KepulauanSula"
+  },
+  "IDN.18.7_1": {
+    "osm_id": "",
+    "name": "PulauMorotai"
+  },
+  "IDN.18.8_1": {
+    "osm_id": "",
+    "name": "Ternate"
+  },
+  "IDN.18.9_1": {
+    "osm_id": "",
+    "name": "TidoreKepulauan"
+  },
+  "IDN.20.1_1": {
+    "osm_id": "",
+    "name": "Bima"
+  },
+  "IDN.20.2_1": {
+    "osm_id": "",
+    "name": "Dompu"
+  },
+  "IDN.20.3_1": {
+    "osm_id": "",
+    "name": "KotaBima"
+  },
+  "IDN.20.4_1": {
+    "osm_id": "",
+    "name": "LombokBarat"
+  },
+  "IDN.20.5_1": {
+    "osm_id": "",
+    "name": "LombokTengah"
+  },
+  "IDN.20.6_1": {
+    "osm_id": "",
+    "name": "LombokTimur"
+  },
+  "IDN.20.7_1": {
+    "osm_id": "",
+    "name": "LombokUtara"
+  },
+  "IDN.20.8_1": {
+    "osm_id": "",
+    "name": "Mataram"
+  },
+  "IDN.20.10_1": {
+    "osm_id": "",
+    "name": "Sumbawa"
+  },
+  "IDN.20.9_1": {
+    "osm_id": "",
+    "name": "SumbawaBarat"
+  },
+  "IDN.21.1_1": {
+    "osm_id": "",
+    "name": "Alor"
+  },
+  "IDN.21.2_1": {
+    "osm_id": "",
+    "name": "Belu"
+  },
+  "IDN.21.3_1": {
+    "osm_id": "",
+    "name": "Ende"
+  },
+  "IDN.21.4_1": {
+    "osm_id": "",
+    "name": "FloresTimur"
+  },
+  "IDN.21.5_1": {
+    "osm_id": "",
+    "name": "KotaKupang"
+  },
+  "IDN.21.6_1": {
+    "osm_id": "",
+    "name": "Kupang"
+  },
+  "IDN.21.7_1": {
+    "osm_id": "",
+    "name": "Lembata"
+  },
+  "IDN.21.10_1": {
+    "osm_id": "",
+    "name": "Manggarai"
+  },
+  "IDN.21.8_1": {
+    "osm_id": "",
+    "name": "ManggaraiBarat"
+  },
+  "IDN.21.9_1": {
+    "osm_id": "",
+    "name": "ManggaraiTimur"
+  },
+  "IDN.21.11_1": {
+    "osm_id": "",
+    "name": "Nagekeo"
+  },
+  "IDN.21.12_1": {
+    "osm_id": "",
+    "name": "Ngada"
+  },
+  "IDN.21.13_1": {
+    "osm_id": "",
+    "name": "RoteNdao"
+  },
+  "IDN.21.14_1": {
+    "osm_id": "",
+    "name": "SabuRaijua"
+  },
+  "IDN.21.15_1": {
+    "osm_id": "",
+    "name": "Sikka"
+  },
+  "IDN.21.17_1": {
+    "osm_id": "",
+    "name": "SumbaBarat"
+  },
+  "IDN.21.16_1": {
+    "osm_id": "",
+    "name": "SumbaBaratDaya"
+  },
+  "IDN.21.18_1": {
+    "osm_id": "",
+    "name": "SumbaTengah"
+  },
+  "IDN.21.19_1": {
+    "osm_id": "",
+    "name": "SumbaTimur"
+  },
+  "IDN.21.20_1": {
+    "osm_id": "",
+    "name": "TimorTengahSelatan"
+  },
+  "IDN.21.21_1": {
+    "osm_id": "",
+    "name": "TimorTengahUtara"
+  },
+  "IDN.23.1_1": {
+    "osm_id": "7754473",
+    "osm_type": "relation",
+    "name": "Asmat",
+    "admin_level": "5"
+  },
+  "IDN.23.2_1": {
+    "osm_id": "",
+    "name": "BiakNumfor"
+  },
+  "IDN.23.3_1": {
+    "osm_id": "",
+    "name": "BovenDigoel"
+  },
+  "IDN.23.4_1": {
+    "osm_id": "7754462",
+    "osm_type": "relation",
+    "name": "Deiyai",
+    "admin_level": "5"
+  },
+  "IDN.23.5_1": {
+    "osm_id": "7754463",
+    "osm_type": "relation",
+    "name": "Dogiyai",
+    "admin_level": "5"
+  },
+  "IDN.23.6_1": {
+    "osm_id": "",
+    "name": "IntanJaya"
+  },
+  "IDN.23.7_1": {
+    "osm_id": "7754451",
+    "osm_type": "relation",
+    "name": "Jayapura",
+    "admin_level": "5"
+  },
+  "IDN.23.8_1": {
+    "osm_id": "7754470",
+    "osm_type": "relation",
+    "name": "Jayawijaya",
+    "admin_level": "5"
+  },
+  "IDN.23.9_1": {
+    "osm_id": "7754450",
+    "osm_type": "relation",
+    "name": "Keerom",
+    "admin_level": "5"
+  },
+  "IDN.23.10_1": {
+    "osm_id": "",
+    "name": "KepulauanYapen"
+  },
+  "IDN.23.11_1": {
+    "osm_id": "",
+    "name": "KotaJayapura"
+  },
+  "IDN.23.12_1": {
+    "osm_id": "",
+    "name": "LannyJaya"
+  },
+  "IDN.23.13_1": {
+    "osm_id": "",
+    "name": "MamberamoRaya"
+  },
+  "IDN.23.14_1": {
+    "osm_id": "",
+    "name": "MamberamoTengah"
+  },
+  "IDN.23.15_1": {
+    "osm_id": "7754472",
+    "osm_type": "relation",
+    "name": "Mappi",
+    "admin_level": "5"
+  },
+  "IDN.23.16_1": {
+    "osm_id": "7754475",
+    "osm_type": "relation",
+    "name": "Merauke",
+    "admin_level": "5"
+  },
+  "IDN.23.17_1": {
+    "osm_id": "7754461",
+    "osm_type": "relation",
+    "name": "Mimika",
+    "admin_level": "5"
+  },
+  "IDN.23.18_1": {
+    "osm_id": "541928444",
+    "osm_type": "node",
+    "name": "Nabire",
+    "admin_level": ""
+  },
+  "IDN.23.19_1": {
+    "osm_id": "7754471",
+    "osm_type": "relation",
+    "name": "Nduga",
+    "admin_level": "5"
+  },
+  "IDN.23.20_1": {
+    "osm_id": "7754464",
+    "osm_type": "relation",
+    "name": "Paniai",
+    "admin_level": "5"
+  },
+  "IDN.23.21_1": {
+    "osm_id": "",
+    "name": "PegununganBintang"
+  },
+  "IDN.23.23_1": {
+    "osm_id": "7754466",
+    "osm_type": "relation",
+    "name": "Puncak",
+    "admin_level": "5"
+  },
+  "IDN.23.22_1": {
+    "osm_id": "",
+    "name": "PuncakJaya"
+  },
+  "IDN.23.24_1": {
+    "osm_id": "7754453",
+    "osm_type": "relation",
+    "name": "Sarmi",
+    "admin_level": "5"
+  },
+  "IDN.23.25_1": {
+    "osm_id": "7754460",
+    "osm_type": "relation",
+    "name": "Supiori",
+    "admin_level": "5"
+  },
+  "IDN.23.26_1": {
+    "osm_id": "7754467",
+    "osm_type": "relation",
+    "name": "Tolikara",
+    "admin_level": "5"
+  },
+  "IDN.23.27_1": {
+    "osm_id": "7754448",
+    "osm_type": "relation",
+    "name": "Waropen",
+    "admin_level": "5"
+  },
+  "IDN.23.28_1": {
+    "osm_id": "7754454",
+    "osm_type": "relation",
+    "name": "Yahukimo",
+    "admin_level": "5"
+  },
+  "IDN.23.29_1": {
+    "osm_id": "7754455",
+    "osm_type": "relation",
+    "name": "Yalimo",
+    "admin_level": "5"
+  },
+  "IDN.22.1_1": {
+    "osm_id": "",
+    "name": "Fakfak"
+  },
+  "IDN.22.2_1": {
+    "osm_id": "",
+    "name": "Kaimana"
+  },
+  "IDN.22.3_1": {
+    "osm_id": "",
+    "name": "KotaSorong"
+  },
+  "IDN.22.4_1": {
+    "osm_id": "",
+    "name": "Manokwari"
+  },
+  "IDN.22.5_1": {
+    "osm_id": "",
+    "name": "Maybrat"
+  },
+  "IDN.22.6_1": {
+    "osm_id": "",
+    "name": "RajaAmpat"
+  },
+  "IDN.22.8_1": {
+    "osm_id": "",
+    "name": "Sorong"
+  },
+  "IDN.22.7_1": {
+    "osm_id": "",
+    "name": "SorongSelatan"
+  },
+  "IDN.22.9_1": {
+    "osm_id": "",
+    "name": "Tambrauw"
+  },
+  "IDN.22.10_1": {
+    "osm_id": "",
+    "name": "TelukBintuni"
+  },
+  "IDN.22.11_1": {
+    "osm_id": "",
+    "name": "TelukWondama"
+  },
+  "IDN.24.1_1": {
+    "osm_id": "7834374",
+    "osm_type": "relation",
+    "name": "Bengkalis",
+    "admin_level": "5"
+  },
+  "IDN.24.2_1": {
+    "osm_id": "7830590",
+    "osm_type": "relation",
+    "name": "Dumai",
+    "admin_level": "5"
+  },
+  "IDN.24.3_1": {
+    "osm_id": "",
+    "name": "IndragiriHilir"
+  },
+  "IDN.24.4_1": {
+    "osm_id": "",
+    "name": "IndragiriHulu"
+  },
+  "IDN.24.5_1": {
+    "osm_id": "7830592",
+    "osm_type": "relation",
+    "name": "Kampar",
+    "admin_level": "5"
+  },
+  "IDN.24.6_1": {
+    "osm_id": "",
+    "name": "KepulauanMeranti"
+  },
+  "IDN.24.7_1": {
+    "osm_id": "",
+    "name": "KuantanSingingi"
+  },
+  "IDN.24.8_1": {
+    "osm_id": "16563796",
+    "osm_type": "relation",
+    "name": "Pekanbaru",
+    "admin_level": "5"
+  },
+  "IDN.24.9_1": {
+    "osm_id": "7833465",
+    "osm_type": "relation",
+    "name": "Pelalawan",
+    "admin_level": "5"
+  },
+  "IDN.24.10_1": {
+    "osm_id": "",
+    "name": "RokanHilir"
+  },
+  "IDN.24.11_1": {
+    "osm_id": "",
+    "name": "RokanHulu"
+  },
+  "IDN.24.12_1": {
+    "osm_id": "7833359",
+    "osm_type": "relation",
+    "name": "Siak",
+    "admin_level": "5"
+  },
+  "IDN.25.1_1": {
+    "osm_id": "",
+    "name": "Majene"
+  },
+  "IDN.25.2_1": {
+    "osm_id": "",
+    "name": "Mamasa"
+  },
+  "IDN.25.4_1": {
+    "osm_id": "",
+    "name": "Mamuju"
+  },
+  "IDN.25.3_1": {
+    "osm_id": "",
+    "name": "MamujuUtara"
+  },
+  "IDN.25.5_1": {
+    "osm_id": "",
+    "name": "PolewaliMandar"
+  },
+  "IDN.26.1_1": {
+    "osm_id": "",
+    "name": "Bantaeng"
+  },
+  "IDN.26.2_1": {
+    "osm_id": "",
+    "name": "Barru"
+  },
+  "IDN.26.3_1": {
+    "osm_id": "",
+    "name": "Bone"
+  },
+  "IDN.26.4_1": {
+    "osm_id": "",
+    "name": "Bulukumba"
+  },
+  "IDN.26.5_1": {
+    "osm_id": "",
+    "name": "Enrekang"
+  },
+  "IDN.26.6_1": {
+    "osm_id": "",
+    "name": "Gowa"
+  },
+  "IDN.26.7_1": {
+    "osm_id": "",
+    "name": "Jeneponto"
+  },
+  "IDN.26.8_1": {
+    "osm_id": "",
+    "name": "KepulauanSelayar"
+  },
+  "IDN.26.11_1": {
+    "osm_id": "",
+    "name": "Luwu"
+  },
+  "IDN.26.9_1": {
+    "osm_id": "",
+    "name": "LuwuTimur"
+  },
+  "IDN.26.10_1": {
+    "osm_id": "",
+    "name": "LuwuUtara"
+  },
+  "IDN.26.12_1": {
+    "osm_id": "",
+    "name": "Makassar"
+  },
+  "IDN.26.13_1": {
+    "osm_id": "",
+    "name": "Maros"
+  },
+  "IDN.26.14_1": {
+    "osm_id": "",
+    "name": "Palopo"
+  },
+  "IDN.26.15_1": {
+    "osm_id": "",
+    "name": "PangkajeneDanKepulauan"
+  },
+  "IDN.26.16_1": {
+    "osm_id": "",
+    "name": "Parepare"
+  },
+  "IDN.26.17_1": {
+    "osm_id": "",
+    "name": "Pinrang"
+  },
+  "IDN.26.18_1": {
+    "osm_id": "",
+    "name": "SidenrengRappang"
+  },
+  "IDN.26.19_1": {
+    "osm_id": "",
+    "name": "Sinjai"
+  },
+  "IDN.26.20_1": {
+    "osm_id": "",
+    "name": "Soppeng"
+  },
+  "IDN.26.21_1": {
+    "osm_id": "",
+    "name": "Takalar"
+  },
+  "IDN.26.22_1": {
+    "osm_id": "",
+    "name": "TanaToraja"
+  },
+  "IDN.26.23_1": {
+    "osm_id": "",
+    "name": "TorajaUtara"
+  },
+  "IDN.26.24_1": {
+    "osm_id": "",
+    "name": "Wajo"
+  },
+  "IDN.27.2_1": {
+    "osm_id": "",
+    "name": "Banggai"
+  },
+  "IDN.27.1_1": {
+    "osm_id": "",
+    "name": "BanggaiKepulauan"
+  },
+  "IDN.27.3_1": {
+    "osm_id": "",
+    "name": "Buol"
+  },
+  "IDN.27.4_1": {
+    "osm_id": "",
+    "name": "Donggala"
+  },
+  "IDN.27.5_1": {
+    "osm_id": "",
+    "name": "Morowali"
+  },
+  "IDN.27.6_1": {
+    "osm_id": "",
+    "name": "Palu"
+  },
+  "IDN.27.7_1": {
+    "osm_id": "",
+    "name": "ParigiMoutong"
+  },
+  "IDN.27.8_1": {
+    "osm_id": "",
+    "name": "Poso"
+  },
+  "IDN.27.9_1": {
+    "osm_id": "",
+    "name": "Sigi"
+  },
+  "IDN.27.10_1": {
+    "osm_id": "",
+    "name": "TojoUna-Una"
+  },
+  "IDN.27.11_1": {
+    "osm_id": "",
+    "name": "Toli-Toli"
+  },
+  "IDN.28.1_1": {
+    "osm_id": "",
+    "name": "Bau-Bau"
+  },
+  "IDN.28.2_1": {
+    "osm_id": "",
+    "name": "Bombana"
+  },
+  "IDN.28.4_1": {
+    "osm_id": "",
+    "name": "Buton"
+  },
+  "IDN.28.3_1": {
+    "osm_id": "",
+    "name": "ButonUtara"
+  },
+  "IDN.28.5_1": {
+    "osm_id": "",
+    "name": "Kendari"
+  },
+  "IDN.28.7_1": {
+    "osm_id": "",
+    "name": "Kolaka"
+  },
+  "IDN.28.6_1": {
+    "osm_id": "",
+    "name": "KolakaUtara"
+  },
+  "IDN.28.10_1": {
+    "osm_id": "",
+    "name": "Konawe"
+  },
+  "IDN.28.8_1": {
+    "osm_id": "",
+    "name": "KonaweSelatan"
+  },
+  "IDN.28.9_1": {
+    "osm_id": "",
+    "name": "KonaweUtara"
+  },
+  "IDN.28.11_1": {
+    "osm_id": "",
+    "name": "Muna"
+  },
+  "IDN.28.12_1": {
+    "osm_id": "",
+    "name": "Wakatobi"
+  },
+  "IDN.29.1_1": {
+    "osm_id": "",
+    "name": "Bitung"
+  },
+  "IDN.29.5_1": {
+    "osm_id": "",
+    "name": "BolaangMongondow"
+  },
+  "IDN.29.2_1": {
+    "osm_id": "",
+    "name": "BolaangMongondowSelatan"
+  },
+  "IDN.29.3_1": {
+    "osm_id": "",
+    "name": "BolaangMongondowTimur"
+  },
+  "IDN.29.4_1": {
+    "osm_id": "",
+    "name": "BolaangMongondowUtara"
+  },
+  "IDN.29.6_1": {
+    "osm_id": "",
+    "name": "KepulauanSangihe"
+  },
+  "IDN.29.7_1": {
+    "osm_id": "",
+    "name": "KepulauanTalaud"
+  },
+  "IDN.29.8_1": {
+    "osm_id": "",
+    "name": "Kotamobagu"
+  },
+  "IDN.29.9_1": {
+    "osm_id": "",
+    "name": "Manado"
+  },
+  "IDN.29.13_1": {
+    "osm_id": "",
+    "name": "Minahasa"
+  },
+  "IDN.29.10_1": {
+    "osm_id": "",
+    "name": "MinahasaSelatan"
+  },
+  "IDN.29.11_1": {
+    "osm_id": "",
+    "name": "MinahasaTenggara"
+  },
+  "IDN.29.12_1": {
+    "osm_id": "",
+    "name": "MinahasaUtara"
+  },
+  "IDN.29.14_1": {
+    "osm_id": "",
+    "name": "SiauTagulandangBiaro"
+  },
+  "IDN.29.15_1": {
+    "osm_id": "",
+    "name": "Tomohon"
+  },
+  "IDN.30.1_1": {
+    "osm_id": "",
+    "name": "Agam"
+  },
+  "IDN.30.2_1": {
+    "osm_id": "",
+    "name": "Bukittinggi"
+  },
+  "IDN.30.3_1": {
+    "osm_id": "",
+    "name": "Danau"
+  },
+  "IDN.30.4_1": {
+    "osm_id": "",
+    "name": "Dharmasraya"
+  },
+  "IDN.30.5_1": {
+    "osm_id": "",
+    "name": "KepulauanMentawai"
+  },
+  "IDN.30.6_1": {
+    "osm_id": "",
+    "name": "KotaSolok"
+  },
+  "IDN.30.7_1": {
+    "osm_id": "",
+    "name": "LimaPuluhKota"
+  },
+  "IDN.30.10_1": {
+    "osm_id": "",
+    "name": "Padang"
+  },
+  "IDN.30.8_1": {
+    "osm_id": "",
+    "name": "PadangPanjang"
+  },
+  "IDN.30.9_1": {
+    "osm_id": "",
+    "name": "PadangPariaman"
+  },
+  "IDN.30.11_1": {
+    "osm_id": "",
+    "name": "Pariaman"
+  },
+  "IDN.30.13_1": {
+    "osm_id": "",
+    "name": "Pasaman"
+  },
+  "IDN.30.12_1": {
+    "osm_id": "",
+    "name": "PasamanBarat"
+  },
+  "IDN.30.14_1": {
+    "osm_id": "",
+    "name": "Payakumbuh"
+  },
+  "IDN.30.15_1": {
+    "osm_id": "",
+    "name": "PesisirSelatan"
+  },
+  "IDN.30.16_1": {
+    "osm_id": "",
+    "name": "Sawahlunto"
+  },
+  "IDN.30.17_1": {
+    "osm_id": "",
+    "name": "Sijunjung"
+  },
+  "IDN.30.19_1": {
+    "osm_id": "",
+    "name": "Solok"
+  },
+  "IDN.30.18_1": {
+    "osm_id": "",
+    "name": "SolokSelatan"
+  },
+  "IDN.30.20_1": {
+    "osm_id": "",
+    "name": "TanahDatar"
+  },
+  "IDN.31.1_1": {
+    "osm_id": "",
+    "name": "BanyuAsin"
+  },
+  "IDN.31.2_1": {
+    "osm_id": "",
+    "name": "EmpatLawang"
+  },
+  "IDN.31.3_1": {
+    "osm_id": "",
+    "name": "Lahat"
+  },
+  "IDN.31.4_1": {
+    "osm_id": "",
+    "name": "Lubuklinggau"
+  },
+  "IDN.31.5_1": {
+    "osm_id": "",
+    "name": "MuaraEnim"
+  },
+  "IDN.31.6_1": {
+    "osm_id": "",
+    "name": "MusiBanyuasin"
+  },
+  "IDN.31.7_1": {
+    "osm_id": "",
+    "name": "MusiRawas"
+  },
+  "IDN.31.8_1": {
+    "osm_id": "",
+    "name": "OganIlir"
+  },
+  "IDN.31.9_1": {
+    "osm_id": "",
+    "name": "OganKomeringIlir"
+  },
+  "IDN.31.12_1": {
+    "osm_id": "",
+    "name": "OganKomeringUlu"
+  },
+  "IDN.31.10_1": {
+    "osm_id": "",
+    "name": "OganKomeringUluSelatan"
+  },
+  "IDN.31.11_1": {
+    "osm_id": "",
+    "name": "OganKomeringUluTimur"
+  },
+  "IDN.31.13_1": {
+    "osm_id": "",
+    "name": "PagarAlam"
+  },
+  "IDN.31.14_1": {
+    "osm_id": "",
+    "name": "Palembang"
+  },
+  "IDN.31.15_1": {
+    "osm_id": "",
+    "name": "Prabumulih"
+  },
+  "IDN.32.1_1": {
+    "osm_id": "",
+    "name": "Asahan"
+  },
+  "IDN.32.2_1": {
+    "osm_id": "",
+    "name": "BatuBara"
+  },
+  "IDN.32.3_1": {
+    "osm_id": "",
+    "name": "Dairi"
+  },
+  "IDN.32.4_1": {
+    "osm_id": "",
+    "name": "DeliSerdang"
+  },
+  "IDN.32.5_1": {
+    "osm_id": "",
+    "name": "Gunungsitoli"
+  },
+  "IDN.32.6_1": {
+    "osm_id": "",
+    "name": "HumbangHasundutan"
+  },
+  "IDN.32.7_1": {
+    "osm_id": "",
+    "name": "Karo"
+  },
+  "IDN.32.8_1": {
+    "osm_id": "",
+    "name": "KotaBinjai"
+  },
+  "IDN.32.9_1": {
+    "osm_id": "",
+    "name": "KotaMedan"
+  },
+  "IDN.32.10_1": {
+    "osm_id": "",
+    "name": "KotaTanjungbalai"
+  },
+  "IDN.32.13_1": {
+    "osm_id": "",
+    "name": "Labuhanbatu"
+  },
+  "IDN.32.11_1": {
+    "osm_id": "",
+    "name": "LabuhanbatuSelatan"
+  },
+  "IDN.32.12_1": {
+    "osm_id": "",
+    "name": "LabuhanbatuUtara"
+  },
+  "IDN.32.14_1": {
+    "osm_id": "",
+    "name": "LakeToba"
+  },
+  "IDN.32.15_1": {
+    "osm_id": "",
+    "name": "Langkat"
+  },
+  "IDN.32.16_1": {
+    "osm_id": "",
+    "name": "MandailingNatal"
+  },
+  "IDN.32.20_1": {
+    "osm_id": "",
+    "name": "Nias"
+  },
+  "IDN.32.17_1": {
+    "osm_id": "",
+    "name": "NiasBarat"
+  },
+  "IDN.32.18_1": {
+    "osm_id": "",
+    "name": "NiasSelatan"
+  },
+  "IDN.32.19_1": {
+    "osm_id": "",
+    "name": "NiasUtara"
+  },
+  "IDN.32.22_1": {
+    "osm_id": "",
+    "name": "PadangLawas"
+  },
+  "IDN.32.21_1": {
+    "osm_id": "",
+    "name": "PadangLawasUtara"
+  },
+  "IDN.32.23_1": {
+    "osm_id": "",
+    "name": "Padangsidimpuan"
+  },
+  "IDN.32.24_1": {
+    "osm_id": "",
+    "name": "PakpakBarat"
+  },
+  "IDN.32.25_1": {
+    "osm_id": "",
+    "name": "Pematangsiantar"
+  },
+  "IDN.32.26_1": {
+    "osm_id": "",
+    "name": "Samosir"
+  },
+  "IDN.32.27_1": {
+    "osm_id": "",
+    "name": "SerdangBedagai"
+  },
+  "IDN.32.28_1": {
+    "osm_id": "",
+    "name": "Sibolga"
+  },
+  "IDN.32.29_1": {
+    "osm_id": "",
+    "name": "Simalungun"
+  },
+  "IDN.32.30_1": {
+    "osm_id": "",
+    "name": "TapanuliSelatan"
+  },
+  "IDN.32.31_1": {
+    "osm_id": "",
+    "name": "TapanuliTengah"
+  },
+  "IDN.32.32_1": {
+    "osm_id": "",
+    "name": "TapanuliUtara"
+  },
+  "IDN.32.33_1": {
+    "osm_id": "",
+    "name": "Tebingtinggi"
+  },
+  "IDN.32.34_1": {
+    "osm_id": "",
+    "name": "TobaSamosir"
+  },
+  "IDN.33.1_1": {
+    "osm_id": "5615253",
+    "osm_type": "relation",
+    "name": "Bantul",
+    "admin_level": "5"
+  },
+  "IDN.33.2_1": {
+    "osm_id": "5615251",
+    "osm_type": "relation",
+    "name": "Gunungkidul",
+    "admin_level": "5"
+  },
+  "IDN.33.3_1": {
+    "osm_id": "",
+    "name": "KotaYogyakarta"
+  },
+  "IDN.33.4_1": {
+    "osm_id": "5615252",
+    "osm_type": "relation",
+    "name": "Kulonprogo",
+    "admin_level": "5"
+  },
+  "IDN.33.5_1": {
+    "osm_id": "5615254",
+    "osm_type": "relation",
+    "name": "Sleman",
+    "admin_level": "5"
+  }
+}
